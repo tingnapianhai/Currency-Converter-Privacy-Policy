@@ -1,7 +1,7 @@
 # Currency Converter
 
 PRIVACY POLICY 
-Last Updated Feb 4, 2022 
+Last Updated Feb 1, 2022 
 
 AppCasa, LLC (“Company“, “we”, “our” or “us”) understands the importance of protecting your privacy. This Privacy Policy explains whether the information of yours will be collected when you download, install, register with, access, or use this mobile application (the “App”), and how such information will be used and shared. It also explains choices you have to control the collection, correction and/or deletion of such information. 
 
